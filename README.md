@@ -5,8 +5,8 @@ Calculate the amount earned in interest for different account types.
 
 ## Summarize the project and what problem it was solving.
 
-The program was designed to produce a table of the amount in a bank account, taking into account
-the APR (annual percentage rate), and number of years, and initial deposit. A second type of account, assumes 
+The program was designed to produce a table of the amount in a bank account while taking into account
+the APR (annual percentage rate), the number of years, and the initial deposit. A second type of account assumes 
 a monthly deposit in addition to the initial amount.
 
 ## What did you do particularly well?
